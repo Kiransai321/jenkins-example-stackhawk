@@ -1,6 +1,6 @@
 app:
-  applicationId: 6a196901-99f1-4b32-86f9-adecc0112a3a
-  host: http://192.168.32.15
+  applicationId: bd7ad1c4-850e-44ae-9b88-fefffe9553ec
+  host: http://3.87.112.215
   env: Development
 
 hawk:

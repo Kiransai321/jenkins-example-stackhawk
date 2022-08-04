@@ -1,6 +1,6 @@
 app:
-  applicationId: a4db9346-77d6-4d59-83c7-13b66de75ab3
-  host: http://localhost:3000
+  applicationId: c9c2fe81-d997-4d64-95fe-613c916dd9fb
+  host: http://3.87.112.215:8090
   env: Development
 
 hawk:

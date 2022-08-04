@@ -1,5 +1,5 @@
 app:
-  applicationId: 53132a48-034a-467e-b135-6416f2e45d65
+  applicationId: 2fae4c35-cc86-463a-8682-b9bbc5becdcd
   host: http://localhost:3000
   env: Development
 

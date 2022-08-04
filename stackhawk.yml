@@ -1,6 +1,6 @@
 app:
   applicationId: 53132a48-034a-467e-b135-6416f2e45d65
-  host: http://172.31.21.72
+  host: http://localhost:3000
   env: Development
 
 hawk:

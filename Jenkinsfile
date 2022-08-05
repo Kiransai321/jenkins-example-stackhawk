@@ -6,7 +6,7 @@ pipeline {
   stages {
     stage("Deploy site") {
       steps {
-        sh 'cp index.json /home/jenkins-agent'
+        sh 'cp conformancepack.py /home/jenkins-agent'
       }
     }
     stage("Run HawkScan Test") {

@@ -6,7 +6,7 @@ pipeline {
   stages {
     stage("Deploy site") {
       steps {
-        sh 'cp conformancepack.tf /home/jenkins-agent'
+        sh 'cp conformancepack.java /home/jenkins-agent'
       }
     }
     stage("Run HawkScan Test") {

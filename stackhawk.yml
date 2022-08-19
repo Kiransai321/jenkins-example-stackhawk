@@ -1,6 +1,6 @@
 app:
-  applicationId: 4104c80f-4954-4b69-a2fd-55ff2bce5c43
-  host: http://54.163.198.175:8090
+  applicationId: 81fe7c52-b0d7-4d3b-b911-5b2b9a48f4f5
+  host: http://34.224.57.148:8090
   env: Development
 
 hawk:
